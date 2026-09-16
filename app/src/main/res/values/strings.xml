@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Angel</string>
+    <string name="status_armed">Detection armed</string>
+    <string name="status_disarmed">Detection off</string>
+    <string name="instructions">Secure the phone to your wrist or forearm, arm detection, then make two sharp movements in opposite directions.</string>
+    <string name="arm">Arm detection</string>
+    <string name="disarm">Stop detection</string>
+    <string name="test_alert">Test alert path</string>
+    <string name="no_events">No test alerts detected yet.</string>
+    <string name="event_summary">%1$d alert(s) detected · last at %2$s</string>
+    <string name="poc_warning">Experimental proof of concept — does not contact emergency services.</string>
+    <string name="monitoring_channel">Gesture monitoring</string>
+    <string name="alert_channel">Test alerts</string>
+    <string name="monitoring_title">Angel is armed</string>
+    <string name="monitoring_text">Monitoring for the deliberate wrist gesture.</string>
+    <string name="test_alert_title">Gesture detected</string>
+    <string name="test_alert_text">Local proof-of-concept alert triggered successfully.</string>
+</resources>
+

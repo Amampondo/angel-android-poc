@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="angel_background">#F7F8FC</color>
+    <color name="angel_primary">#3157D5</color>
+    <color name="angel_primary_dark">#203DA1</color>
+    <color name="angel_text">#172033</color>
+    <color name="angel_muted">#697386</color>
+    <color name="angel_green">#15803D</color>
+    <color name="white">#FFFFFF</color>
+</resources>
+
